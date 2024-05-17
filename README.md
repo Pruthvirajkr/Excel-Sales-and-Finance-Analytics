@@ -1,1 +1,1 @@
-# Excel Project 
+# AtliQ hardwares sales and analytics using Microsoft Excel
