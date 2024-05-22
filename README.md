@@ -1,1 +1,1 @@
-# AtliQ hardwares sales and analytics using Microsoft Excel
+# AtliQ Hardwares sales and Finance Analytics
