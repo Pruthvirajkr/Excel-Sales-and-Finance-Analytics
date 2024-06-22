@@ -39,7 +39,7 @@
   1. Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 ## Technical & Soft Skills:
-  1. Proficiency in ETL methodology (Extract, Transform, Load).
+   [Proficiency in ETL methodology (Extract, Transform, Load).]
 
   2. Skills to generate a date table using Power Query.
 
