@@ -1,7 +1,8 @@
 # AtliQ Hardwares Sales and Finance Analytics
 
 **Sales Report** :
-Project objective --
+
+--Project objective --
 
 1. Create a customer performance report
 
