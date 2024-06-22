@@ -4,9 +4,9 @@
 
 - **Project Objective:**
 
-1.To create a customer performance report
+  1.To create a customer performance report
 
-2.To conduct a comprehensive comparison between market performance and sales targets
+  2.To conduct a comprehensive comparison between market performance and sales targets
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
