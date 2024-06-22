@@ -2,7 +2,7 @@
 
 **Sales Report** :
 
-*Project objective***Zad. 0** <br />
+<span style="font-size:0.5em;">Project Objective</span>
 
 1. Create a customer performance report
 
