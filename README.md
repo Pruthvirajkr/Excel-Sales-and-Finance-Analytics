@@ -2,7 +2,7 @@
 
 **Sales Report** :
 
-*Project objective*
+*Project objective***Zad. 0** <br />
 
 1. Create a customer performance report
 
